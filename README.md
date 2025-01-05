@@ -11,7 +11,7 @@ A simple compiler implementation for the Venus programming language, featuring b
 
 ## Requirements
 - Java 11 or higher
-- Window OS
+- Windows OS
 
 ## Installation
 ```bash
