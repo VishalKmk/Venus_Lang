@@ -9,6 +9,10 @@ A simple compiler implementation for the Venus programming language, featuring b
 - Basic error handling
 - Command-line interface
 
+## Requirements
+- Java 11 or higher
+- Window OS
+
 ## Installation
 ```bash
 git clone https://github.com/VishalKmk/Venus_Lang.git
