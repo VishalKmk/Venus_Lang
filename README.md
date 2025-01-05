@@ -21,7 +21,8 @@ cd Venus_Lang
 
 ## Run Script
 ```terminal
-scripts/build.bat
+cd scripts
+./build.bat
 ```
 ## Compile and Run
 ```terminal
