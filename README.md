@@ -19,3 +19,8 @@ cd Venus_Lang
 ```terminal
 scripts/build.bat
 ```
+## Compile and Run
+```terminal
+vnsc FirstProgram.vns #compile
+vns FirstProgram #run
+```
