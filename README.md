@@ -20,12 +20,12 @@ cd Venus_Lang
 ```
 
 ## Run Script
-```terminal
+```bash
 cd scripts
 ./build.bat
 ```
 ## Compile and Run
-```terminal
+```bash
 vnsc FirstProgram.vns #compile
 vns FirstProgram #run
 ```
